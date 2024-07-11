@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gender_bg">#01B1C7</color>
+    <color name="level_bg">#FF2BA0</color>
+</resources>
